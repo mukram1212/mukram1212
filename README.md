@@ -1,41 +1,86 @@
-<h1 align="center">Hi 👋, I'm Mukarram Ali</h1>
-<h3 align="center">Website Developer | Python Programmer | AI Agent Creator</h3>
+Readme · MD
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:16c79a&height=220&section=header&text=Mukarram%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Website%20Developer%20%7C%20WordPress%20%26%20WooCommerce%20Specialist%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" /> <a href="https://www.linkedin.com/in/mukarram-ali-8a81a4412/"> <img src="https://readme-typing-svg.demolab.com/?lines=Building+fast%2C+scalable+WordPress+%26+WooCommerce+sites;Automating+workflows+with+Python+%26+AI+agents;Turning+client+ideas+into+working+software;Open+to+freelance+%26+collaboration!&font=Fira+Code&center=true&width=650&height=50&color=0e75b6&vCenter=true&size=22&pause=1200" /> </a> <p> <img src="https://komarev.com/ghpvc/?username=mukram1212&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" /> <a href="https://www.linkedin.com/in/mukarram-ali-8a81a4412/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/mukram338523"><img src="https://img.shields.io/badge/Dev.to-Read%20Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> <a href="mailto:mukram338523@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:16c79a&height=2&section=header" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukram1212&label=Profile%20views&color=0e75b6&style=flat" alt="mukram1212" /> </p>
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukram1212" alt="mukram1212" /></a> </p>
+I'm a freelance web developer based in Skardu, Pakistan, with **5+ years of professional experience** building and optimizing websites. I specialize in **WordPress, Elementor, and WooCommerce** — full builds, redesigns, and speed optimization — and I'm actively expanding into **AI agents, automation, and full-stack development**.
 
-- 🔭 I’m currently working on **AI Agents, Web Automation, and Full-Stack Web Applications**
+```yaml
+role: "Freelance Web Developer"
+location: "Skardu, Pakistan"
+focus: ["WordPress", "WooCommerce", "Elementor", "Python", "AI Agents"]
+currently_learning: ["LangChain", "FastAPI", "MCP", "Multi-Agent Systems", "Cloud Deployment"]
+looking_to_collaborate_on: ["Open Source", "AI Automation", "Python Solutions"]
+fun_fact: "I love turning ideas into intelligent software and automating repetitive tasks with AI."
+```
 
-- 🌱 I’m currently learning **LangChain, FastAPI, MCP, Multi-Agent Systems, and Cloud Deployment**
+- 🏛️ Founded the **Computing Science Society** and served as an **NYLP Ambassador** at Karakorum International University
+- 💬 Ask me about **WordPress, WooCommerce, Python, AI agents, automation, and full-stack development**
 
-- 👯 I’m looking to collaborate on **Open Source Projects, AI Automation, and Python-Based Solutions**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:16c79a&height=2&section=header" width="100%"/>
 
-- 🤝 I’m looking for help with **Advanced AI Agent Development & Large Language Models (LLMs)**
+### 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/mukram1212](https://github.com/mukram1212)
+<div align="center">
 
-- 💬 Ask me about **Python, Web Development, AI Agents, Automation, APIs, HTML, CSS, JavaScript, Bootstrap, and GitHub**
+**Website Development**
 
-- 📫 How to reach me **mukram338523@gmail.com**
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" />
 
-- ⚡ Fun fact **I love turning ideas into intelligent software and automating repetitive tasks with AI.**
+**Frameworks & Runtimes**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,flutter" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mukram338523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mukram338523" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukarram-ali-8a81a4412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukarram-ali-8a81a4412/" height="30" width="40" /></a>
-</p>
+**Languages & Data**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,csharp" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" title="MongoDB"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukram1212&show_icons=true&locale=en&layout=compact" alt="mukram1212" /></p>
+**Design & Tools**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukram1212&show_icons=true&locale=en" alt="mukram1212" /></p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,git,github" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukram1212&" alt="mukram1212" /></p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:16c79a&height=2&section=header" width="100%"/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mukram1212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mukarram's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukram1212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukram1212&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mukram1212&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:16c79a&height=2&section=header" width="100%"/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mukram1212/mukram1212/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</div>
+
+<sub>⚙️ The snake animation above needs a one-time GitHub Action setup — see the note at the bottom of this README.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:16c79a&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/mukarram-ali-8a81a4412/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dev.to/mukram338523" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="mailto:mukram338523@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16c79a,100:0e75b6&height=100&section=footer" />
